@@ -1,2 +1,2 @@
 # class-2
-this is github example
+this is a github example
